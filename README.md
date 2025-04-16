@@ -1,2 +1,1 @@
-# Alejandra-Mantinan
-Personal website
+# Alejandra Mantinan Personal website
